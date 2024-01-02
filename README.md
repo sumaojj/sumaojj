@@ -2,6 +2,7 @@
 - 👀 I’m interested in computer science especially in computer geometry.
 - 🌱 I’m currently learning computer geometry
 - 📫 My email address: sumaojiang@mail.ustc.edu.cn
+- CV：https://sumaojj.github.io/
 
 <!---
 sumaojj/sumaojj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
